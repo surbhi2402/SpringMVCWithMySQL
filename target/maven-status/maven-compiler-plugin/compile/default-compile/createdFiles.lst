@@ -1,0 +1,15 @@
+com/intelligrape/service/LoginService.class
+com/intelligrape/controllers/SimpleFormController.class
+com/intelligrape/form/ValidationForm.class
+com/intelligrape/controllers/ValidationController.class
+com/intelligrape/dao/LoginDAO.class
+com/intelligrape/controllers/RegistrationController.class
+com/intelligrape/form/LoginForm.class
+com/intelligrape/controllers/LoginController.class
+com/intelligrape/dao/LoginDAOImpl.class
+com/intelligrape/service/LoginServiceImpl.class
+com/intelligrape/form/Registration.class
+com/intelligrape/form/User.class
+com/intelligrape/model/Users.class
+com/intelligrape/controllers/HelloWorldController.class
+com/intelligrape/controllers/RegistrationValidation.class
